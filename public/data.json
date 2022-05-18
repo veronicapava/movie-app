@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "The Purge",
+    "poster": "https://i.pinimg.com/236x/d6/b4/fc/d6b4fc7158d03616cd55eb100b8a40f4--horror-film-horror-movies.jpg",
+    "year": "2013",
+    "type": "movie",
+    "gender": "terror, suspense"
+  },
+  {
+    "id": "2",
+    "title": "The Purge: Anarchy",
+    "poster": "https://pm1.narvii.com/6728/ffbad53138f8beeed2762fe134e9f12570202cc7v2_hq.jpg",
+    "year": "2014",
+    "type": "movie",
+    "gender": "terror, suspense"
+  },
+  {
+    "id": "3",
+    "title": "The Purge: Election Year",
+    "poster": "https://img.betaseries.com/5eN4cn-GKu6eUnlKx63z3M0ooAw=/600x900/smart/https%3A%2F%2Fpictures.betaseries.com%2Ffilms%2Faffiches%2Foriginal%2F31627.jpg",
+    "year": "2016",
+    "type": "movie",
+    "gender": "terror, suspense"
+  },
+  {
+    "id": "4",
+    "title": "The First Purge",
+    "poster": "https://m.media-amazon.com/images/I/81RzNFZrj7L._SL1500_.jpg",
+    "year": "2018",
+    "type": "movie",
+    "gender": "terror, suspense"
+  },
+  {
+    "id": "5",
+    "title": "The Forever Purge",
+    "poster": "https://nosomosnonos.com/wp-content/uploads/2021/06/the-forever-purge.jpg",
+    "year": "2021",
+    "type": "movie",
+    "gender": "terror, suspense"
+  }
+]
